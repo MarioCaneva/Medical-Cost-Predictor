@@ -45,7 +45,7 @@ Clone the repository or Run the notebook: Linear_Regression_Health_Costs_Calcula
 
 
 🧪 Technologies Used
-Python 🐍
+Python
 
 Pandas & NumPy
 
